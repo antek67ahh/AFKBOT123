@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GUNS_PVP_pl.aternos.me
-",
+    "ip": "GUNS_PVP_pl.aternos.me:60727",
     "port": 60727,
     "version": "",
     "try-creative": false
